@@ -9,4 +9,6 @@ venv\Scripts\activate
 ----------------------------------------------------
 Y dentro de este entorno virtual instalar las siguientes librerias:
 pip install streamlit pandas plotly altair
+
 Ya con el entorno virtual y las librerías instaladas, se ejecuta el archivo "app.py" usando el comando "streamlit run app.py"
+nota: tener todos los archivos aquí presentados descargados en la misma carpeta de donde se crea el entorno virtual
