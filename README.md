@@ -1,2 +1,15 @@
 # Interrelacion de Indicadores de Sostenibilidad de la agroindustria
-Este repositorio contiene los archivos realizados en python que se usaron para crear la herramienta de visualización junto a estos archivos se tiene una guía para su correcto uso
+Este repositorio contiene los archivos realizados en python que se usaron para crear la herramienta de visualización
+
+Se recomienda el uso de python version 3.10.1
+Para evitar cualquier error se recomienda crear un entorno virtual con esta versión de python:
+----------------Ejecutar en consola------------------
+python3.10 -m venv env
+venv\Scripts\activate
+----------------------------------------------------
+
+Y dentro de este entorno virtual instalar las siguientes librerias:
+pip install streamlit pandas plotly altair
+
+Ya con el entorno virtual y las librerías instaladas, se ejecuta el archivo "app.py" usando el comando "streamlit run app.py"
+
