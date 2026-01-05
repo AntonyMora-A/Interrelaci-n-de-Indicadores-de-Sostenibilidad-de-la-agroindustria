@@ -1,4 +1,5 @@
 # Interrelacion de Indicadores de Sostenibilidad de la agroindustria
+
 Este repositorio contiene los archivos realizados en python que se usaron para crear la herramienta de visualización
 Se recomienda el uso de python version 3.10.1
 Para evitar cualquier error se recomienda crear un entorno virtual con esta versión de python:
